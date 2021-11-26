@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+
+:root{
+    --primary-color:red;
+}
+body{
+    font-family: 'Roboto Slab', serif;
+}
+
+/* container */
+
+.container{
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+}
+.container{
+    max-width: 600px;
+    margin:auto
+}
+
+/* link */
+.pawan{
+    background-color:purple;
+    color:white;
+    text-align: center;
+    padding:0.5rem;
+    border-radius: 1rem;
+    text-decoration: none;
+    
+
+}
+.header{
+    background-color:blue;
+    border-radius:4rem;
+    padding: 2rem;
+    text-align: center;
+}
