@@ -9,3 +9,4 @@ function clickHandler(){
 }
 
 btntranslate.addEventListener("click", clickHandler)
+print("zyx")
