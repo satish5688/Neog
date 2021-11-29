@@ -1,0 +1,63 @@
+.header{
+    background-color: purple;
+    border-bottom-left-radius: 44px;
+}
+.div-head{
+    color: #fff;
+}
+.link-head{
+    text-align: right;
+    padding-bottom: 2rem;
+}
+.link{
+    color:white;
+    text-decoration:none;
+    padding: 0 2rem;
+}
+
+.image{
+    text-align: center;
+    margin-top:4rem;
+}
+.adarsh-para{
+    text-align: center;
+}
+.see-project{
+    text-align: center;
+    text-decoration: none;
+    /* radius: 2rem; */
+}
+.project-link{
+    font-size: 30px;
+    text-decoration: none;
+    background-color:purple;
+    color: #fff;
+    border-radius: 2rem;
+    padding: 4px 1rem;
+}
+
+.projects{
+    text-align: center;
+    margin: 5rem;
+}
+.footer{
+    background-color: purple;
+    color: #fff;
+    text-align: center;
+    padding:40px;
+    border-top-right-radius: 2rem;
+}
+.footer-link{
+    color: #fff;
+    text-decoration: none;
+    /* font-weight: bold; */
+    font-size:20px;
+    padding: 0 2rem;
+}
+
+
+.Blogs{text-align: center;
+    /* padding: 7rem; */
+    margin: 5rem;
+
+}
