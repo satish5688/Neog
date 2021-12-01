@@ -9,6 +9,7 @@
     <style>
         * {
             text-align: center;
+            background-color: royalblue;
         }
 
         textarea {
@@ -19,6 +20,9 @@
             margin: auto;
             border: 3px solid green;
             margin-bottom: 2rem;
+            border-radius: 2rem;
+            background-color:lightgray;
+            font-size:18px; 
         }
 
 
@@ -28,14 +32,38 @@
             height: 10%;
             width: 80%;
             margin: 2rem auto;
-            padding: 3rem
+            padding: 3rem;
+            background-color:lightgray; 
+            border-radius: 2rem;
+            font-size: 2rem;
         }
 
 
         #btn_translate {
-            padding: 2rem;
+            padding: 1rem;
             font-size: 2rem;
+            border-radius:2rem;
+            background-color:plum
         }
+
+
+        button:hover{
+            background-color:lightgreen;
+            color:#A3E635   ;
+
+        }
+
+
+        .about{text-align:center;
+        margin-top:5rem 25rem;
+        color:black;
+        font-size:18px;
+        border:2px solid purple  ;
+        padding : 3rem;    
+        border-radius: 2rem;
+
+        }
+
     </style>
 
 </head>
@@ -47,6 +75,8 @@
     <div style="font-size:larger; text-align:center; font-size:2rem;">output will come here 👇</div>
     <div id="output"></div>
     <script type="text/javascript" src="app.js"></script>
+    <div class="about"><b>About :- This is app is to translate made by satish </b> 
+
 </body>
 
 </html>
