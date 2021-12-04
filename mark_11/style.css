@@ -1,0 +1,59 @@
+h1{
+    text-align: center;
+    color:#84CC16;
+    font-style: italic;
+    font-size: 4rem;
+    border-radius: 0.3rem;
+    background-color:#FDE68A;
+}
+label{
+    font-size: xx-large;
+    text-align: center;
+}
+#d-o-b{
+    display: block;
+    /* margin-left: 44%; */
+    margin: auto;
+    height: 3rem;
+    width: 19rem;
+    font-size: 1.5rem;
+    border-radius: 1rem;
+    background-color:#D9F99D;
+    color: blue;
+
+}
+#lucky-number{
+    display: block;
+    /* margin-left: 44%; */
+    height: 3rem;
+    margin: auto;
+    width: 19rem;
+    font-size: 1.5rem;
+    border-radius:1rem;
+    background-color:#BBF7D0;
+    text-align: center;
+}
+body{
+    text-align: center;
+    display: block;
+    background-color:#FEF3C7
+    ;
+}
+#d-o-b{
+    
+    border-radius: 1rem;
+}
+p{
+    font-size: xx-large;
+}
+button{
+    font-size: x-large;
+    margin-top: 2rem;
+    background-color:lightgreen;
+    padding: 10px;
+    border-radius:1rem;
+}
+div{
+    font-size: xx-large;
+    margin-top: 4rem;
+}

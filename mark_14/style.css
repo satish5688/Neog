@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color:#A3E635;
+}
+h1{
+    color:darkmagenta;
+    font-size: 4rem;
+}
+span{
+    color: darkslategray;
+}
+label{
+    font-size: xx-large;
+    
+}
+input{
+    display: block;
+    margin: 1rem auto;
+    padding: 1rem;
+    font-size: xx-large;
+    margin-bottom: 4rem;
+    border-radius: 1rem;
+    
+}
+
+button{
+    font-size: xx-large;
+    margin-top: 2rem;
+    border-radius: 1rem;
+    background-color:lightgreen
+}
+div{
+    font-size: xx-large;
+    margin-top: 3rem;
+}

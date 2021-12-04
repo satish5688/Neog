@@ -1,0 +1,43 @@
+*{
+    background-color:white;}
+
+.container{
+    display:flex;
+    flex-direction:column;
+    width:50vw;
+}
+.heading{
+    background-color: rgb(136, 125, 125);
+}
+.change-table{
+    border-collapse: collapse;
+    width:50%;
+    text-align:center;
+    margin: auto;
+}
+
+th
+td{
+    border-collapse: collapse;
+    width:0%;
+    padding:0.4 rem;
+}
+
+.change-table caption{
+    margin:1rem auto;
+    font-size:large;
+    font-weight: 500;
+}
+.input-label{
+    display: block;
+    font-size:large;
+    font-weight:600;
+
+}
+
+.input{
+    font-size: 14px;
+    padding: 0.6 1rem;
+    margin: 1rem 0.5rem;
+
+}
